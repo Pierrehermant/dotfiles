@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = p.hermant@finance.brussels
+	name = Pierre Hermant
